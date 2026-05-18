@@ -1,0 +1,3 @@
+[submodule "LibraryPCB"]
+	path = LibraryPCB
+	url = https://github.com/sofia-gonzalez-carranza/LibraryPCB.git
