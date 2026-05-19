@@ -256,7 +256,11 @@
       "Footprints"
     ],
     "pinned_symbol_libs": [
-      "resistor"
+      "resistor",
+      "Antenas",
+      "connectors",
+      "ic_control",
+      "ic_power"
     ]
   },
   "meta": {
@@ -420,7 +424,7 @@
         "uuid": "ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-2,#PWR1-10,C1-5,R1-3",
     "variants": []
   },
   "sheets": [
