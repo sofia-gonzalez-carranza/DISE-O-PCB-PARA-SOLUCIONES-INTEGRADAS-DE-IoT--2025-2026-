@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "159fd870-7dab-4696-a230-e0e1dce3e94f")
+	(uuid "7e76d269-5d5a-495c-91d2-e572f9a81475")
 	(paper "A3")
 	(title_block
 		(title "Bloque Alimentación")
@@ -27560,6 +27560,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 78.74) (xy 142.24 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b8d44ff-46ec-4004-ad1b-f520c98a4c6f")
+	)
+	(wire
+		(pts
 			(xy 125.73 64.77) (xy 132.08 64.77)
 		)
 		(stroke
@@ -27717,6 +27727,30 @@
 			(type default)
 		)
 		(uuid "fcdfabf8-85db-4d86-be50-2da246c82e68")
+	)
+	(global_label "IO35"
+		(shape input)
+		(at 142.24 83.82 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d74bcc86-aec2-42b5-9d3c-521abd5f376c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.24 91.1595 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -28249,8 +28283,8 @@
 				)
 			)
 		)
-		(property "Value" "10 kOhm"
-			(at 139.7 72.39 90)
+		(property "Value" "0 Ohm"
+			(at 139.7 74.422 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
