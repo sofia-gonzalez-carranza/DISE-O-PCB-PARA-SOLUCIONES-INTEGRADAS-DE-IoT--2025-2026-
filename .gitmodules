@@ -1,3 +1,6 @@
 [submodule "LibraryPCB"]
 	path = LibraryPCB
 	url = https://github.com/sofia-gonzalez-carranza/LibraryPCB.git
+[submodule "HardwareLibrary"]
+	path = HardwareLibrary
+	url = https://github.com/reyantonalvaro/HardwareLibrary.git

@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "dbef8f5a-7afd-4eaf-8648-410da8327ea3")
+	(paper "A3")
+	(title_block
+		(title "Microcontrolador")
+		(date "2026-05-19")
+		(rev "R0")
+		(company "ELE0226")
+		(comment 1 "Sofía González Carranza")
+	)
+	(lib_symbols)
+)

@@ -2,9 +2,200 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid ca8a6ff9-ef79-4432-921e-b6a14ecba63b)
-	(paper "A4")
+	(uuid "ca8a6ff9-ef79-4432-921e-b6a14ecba63b")
+	(paper "A3")
+	(title_block
+		(title "Placa IoT")
+		(date "2026-05-19")
+		(rev "R0")
+		(company "ELE0226")
+		(comment 1 "Sofía González Carranza")
+	)
 	(lib_symbols)
+	(sheet
+		(at 40.64 151.13)
+		(size 105.41 92.71)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2ab986e5-86bf-4722-8287-290beecee00c")
+		(property "Sheetname" "RF"
+			(at 40.64 150.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rf.kicad_sch"
+			(at 40.64 244.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_iot"
+				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 38.1)
+		(size 107.95 90.17)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7b326d8d-09a7-4e3f-8b53-281c1d6f048a")
+		(property "Sheetname" "ALIMENTACIÓN"
+			(at 38.1 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alimentacion.kicad_sch"
+			(at 38.1 128.8546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_iot"
+				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 294.64 85.09)
+		(size 99.06 109.22)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8dc7ab2b-7411-4406-b884-e10648d74030")
+		(property "Sheetname" "BATTERY"
+			(at 294.64 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 294.64 194.8946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_iot"
+				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 38.1)
+		(size 105.41 205.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ef79e94e-819a-4814-977f-bb8caad606bf")
+		(property "Sheetname" "MICROCONTROLADOR"
+			(at 170.18 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontrolador.kicad_sch"
+			(at 170.18 244.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_iot"
+				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
