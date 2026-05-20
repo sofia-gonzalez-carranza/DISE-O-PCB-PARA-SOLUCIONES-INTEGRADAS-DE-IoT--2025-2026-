@@ -424,7 +424,7 @@
         "uuid": "ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
       }
     ],
-    "used_designators": "U1-6,L1-2,#PWR1-64,C1-29,J1-6,R1-21,Y1,SW1-3,D1-5,Q1-2",
+    "used_designators": "U1-6,L1-2,#PWR1-72,C1-29,J1-6,R1-26,Y1,SW1-3,D1-9,Q1-2,FL1",
     "variants": []
   },
   "sheets": [
@@ -447,6 +447,10 @@
     [
       "8dc7ab2b-7411-4406-b884-e10648d74030",
       "BATTERY"
+    ],
+    [
+      "e32d2bcd-fd91-4d83-b55e-08e3ee9e2178",
+      "USB"
     ]
   ],
   "text_variables": {},

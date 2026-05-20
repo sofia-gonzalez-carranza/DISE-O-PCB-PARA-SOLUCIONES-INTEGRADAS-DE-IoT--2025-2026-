@@ -105,7 +105,7 @@
 		)
 	)
 	(sheet
-		(at 294.64 85.09)
+		(at 295.91 39.37)
 		(size 99.06 109.22)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -121,7 +121,7 @@
 		)
 		(uuid "8dc7ab2b-7411-4406-b884-e10648d74030")
 		(property "Sheetname" "BATTERY"
-			(at 294.64 84.3784 0)
+			(at 295.91 38.6584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -132,7 +132,7 @@
 			)
 		)
 		(property "Sheetfile" "battery.kicad_sch"
-			(at 294.64 194.8946 0)
+			(at 295.91 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -146,6 +146,52 @@
 			(project "placa_iot"
 				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 295.91 165.1)
+		(size 99.06 78.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e32d2bcd-fd91-4d83-b55e-08e3ee9e2178")
+		(property "Sheetname" "USB"
+			(at 295.91 164.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 295.91 244.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_iot"
+				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
+					(page "6")
 				)
 			)
 		)
