@@ -3122,7 +3122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "connectors:CONN_SMT_RH_USBC_P0.50MM_P16"
+		(property "Footprint" "Connectors:CONN_SMT_RH_USBC_P0.50MM_P16"
 			(at 193.04 67.31 0)
 			(hide yes)
 			(show_name no)

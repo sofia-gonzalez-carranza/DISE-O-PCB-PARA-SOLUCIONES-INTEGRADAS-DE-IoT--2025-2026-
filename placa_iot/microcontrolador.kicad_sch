@@ -6784,9 +6784,8 @@
 				)
 			)
 		)
-		(property "Footprint" "antennas:ANTENNA_PIFA_3D_2.4GHZ"
+		(property "Footprint" "Antennas:ANTENNA_PIFA_3D_2.4GHZ"
 			(at 257.81 162.56 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -7854,7 +7853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "connectors:CONN_THT_MV_PH_P2.54MM_P14"
+		(property "Footprint" "Connectors:CONN_THT_MV_PH_P2.54MM_P14"
 			(at 138.43 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10199,7 +10198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "connectors:CONN_THT_MV_PH_P2.54MM_P14"
+		(property "Footprint" "Connectors:CONN_THT_MV_PH_P2.54MM_P14"
 			(at 138.43 144.78 0)
 			(hide yes)
 			(show_name no)
