@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "2f67e29b-cd39-4299-946c-a871111b1d26")
+	(uuid "30d68304-132a-4d1b-8839-601fe476fd3f")
 	(paper "A3")
 	(title_block
 		(title "Battery")
@@ -3412,7 +3412,7 @@
 		(uuid "ffdef297-b2c6-4f1d-ba28-99432f3cebbe")
 	)
 	(hierarchical_label "IO4"
-		(shape bidirectional)
+		(shape output)
 		(at 167.64 149.86 180)
 		(effects
 			(font

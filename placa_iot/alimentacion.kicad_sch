@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "905bb822-b6c7-4d2b-afbf-04148200e572")
+	(uuid "99915b78-d1a5-4a41-b7f9-b53373385e9e")
 	(paper "A3")
 	(title_block
 		(title "Bloque Alimentación")
@@ -27728,29 +27728,16 @@
 		)
 		(uuid "fcdfabf8-85db-4d86-be50-2da246c82e68")
 	)
-	(global_label "IO35"
+	(hierarchical_label "IO35"
 		(shape input)
 		(at 142.24 83.82 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "d74bcc86-aec2-42b5-9d3c-521abd5f376c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.24 91.1595 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "c5237c7c-7d49-456a-838c-4c231bb816c6")
 	)
 	(symbol
 		(lib_id "Device:C")

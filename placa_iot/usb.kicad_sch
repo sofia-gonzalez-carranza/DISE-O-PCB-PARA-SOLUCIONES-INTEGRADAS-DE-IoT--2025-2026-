@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "6209fab5-dc4d-41f6-b4a2-3d7df5f0d0de")
+	(uuid "b64c31b7-4fe7-4749-b179-0aeba4933d4b")
 	(paper "A4")
 	(title_block
 		(date "2026-05-19")
@@ -1688,12 +1688,6 @@
 		)
 	)
 	(junction
-		(at 68.58 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14230ba5-c77e-442c-9f47-e1954c141ba3")
-	)
-	(junction
 		(at 140.97 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1734,6 +1728,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6c23a37-2944-410e-803c-fa95b3b9f6d2")
+	)
+	(junction
+		(at 68.58 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8926297-e238-4064-b547-7cc672b7004f")
 	)
 	(junction
 		(at 95.25 106.68)
@@ -1866,16 +1866,6 @@
 			(type default)
 		)
 		(uuid "2da49bbc-2b6b-48ce-b744-ab5888d5a177")
-	)
-	(wire
-		(pts
-			(xy 68.58 106.68) (xy 74.93 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38d6ec8b-0754-4c5e-9b2a-fd518128d2ab")
 	)
 	(wire
 		(pts
@@ -2196,6 +2186,16 @@
 			(type default)
 		)
 		(uuid "f02bd80b-a8bd-4ac0-a04d-8972f3f3d8d2")
+	)
+	(wire
+		(pts
+			(xy 68.58 106.68) (xy 72.39 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe07da6d-df24-4ee1-8941-4c8be4bce598")
 	)
 	(hierarchical_label "D+"
 		(shape bidirectional)

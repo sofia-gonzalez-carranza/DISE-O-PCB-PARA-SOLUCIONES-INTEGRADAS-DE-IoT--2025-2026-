@@ -12,6 +12,166 @@
 		(comment 1 "Sofía González Carranza")
 	)
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 146.05 203.2) (xy 170.18 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac8075d-a569-4505-a41c-14534527b5fe")
+	)
+	(wire
+		(pts
+			(xy 146.05 172.72) (xy 170.18 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1480f5bb-59d3-495c-9a9b-a53050db84be")
+	)
+	(wire
+		(pts
+			(xy 275.59 83.82) (xy 295.91 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18e1f2e9-f101-4805-864f-acac0c4d0809")
+	)
+	(wire
+		(pts
+			(xy 146.05 208.28) (xy 170.18 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2259c6c5-f1ef-4179-8581-d5a40845a8d7")
+	)
+	(wire
+		(pts
+			(xy 146.05 167.64) (xy 170.18 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34c047da-674a-4bb2-94bc-11f10f6a6022")
+	)
+	(wire
+		(pts
+			(xy 146.05 50.8) (xy 170.18 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56ccab80-3836-4c24-a713-88e0dc378d83")
+	)
+	(wire
+		(pts
+			(xy 146.05 198.12) (xy 170.18 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "599bdb04-b100-4369-beaa-de2c6d8828a1")
+	)
+	(wire
+		(pts
+			(xy 275.59 201.93) (xy 295.91 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fe47cb6-3abd-40ed-8838-5c9ca3ebd86b")
+	)
+	(wire
+		(pts
+			(xy 275.59 207.01) (xy 295.91 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4278a26-49fc-40e7-9410-38bfb64cfbe8")
+	)
+	(wire
+		(pts
+			(xy 146.05 213.36) (xy 170.18 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4fb591c-c385-48d9-a311-f3fcda2e044b")
+	)
+	(wire
+		(pts
+			(xy 146.05 182.88) (xy 170.18 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b570bbda-7429-49fb-a459-2c99042076be")
+	)
+	(wire
+		(pts
+			(xy 146.05 193.04) (xy 170.18 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d048a391-1117-4f67-b53b-1fa671e246dc")
+	)
+	(wire
+		(pts
+			(xy 146.05 187.96) (xy 170.18 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e58b662a-fd23-4a4c-9315-b5f321a8e9bc")
+	)
+	(wire
+		(pts
+			(xy 146.05 162.56) (xy 170.18 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eec40ca9-b500-40d3-8a7e-893bc502e0eb")
+	)
+	(wire
+		(pts
+			(xy 275.59 78.74) (xy 295.91 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef727db8-8073-4209-b37f-e4f40e2394e7")
+	)
+	(wire
+		(pts
+			(xy 146.05 177.8) (xy 170.18 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f027bfcf-baea-4d8c-927e-257fe97d1b5a")
+	)
 	(sheet
 		(at 40.64 151.13)
 		(size 105.41 92.71)
@@ -48,6 +208,116 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "IO7" input
+			(at 146.05 177.8 0)
+			(uuid "f1f844a5-88fd-4414-850c-87f83450ec80")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO5" input
+			(at 146.05 167.64 0)
+			(uuid "ae8ed948-496b-4c78-81a3-c670b8cae83b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO6" input
+			(at 146.05 172.72 0)
+			(uuid "1107cc6a-2499-4519-ac9c-f4140ff805a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO3" output
+			(at 146.05 162.56 0)
+			(uuid "86ce52b9-fe96-41c3-8c1f-612a524be92b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO36" bidirectional
+			(at 146.05 203.2 0)
+			(uuid "67205715-b702-40e3-a634-5cb94d6b6d04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO8" input
+			(at 146.05 182.88 0)
+			(uuid "097e5515-3430-4192-ad42-7c02fa94bbe1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO33" bidirectional
+			(at 146.05 193.04 0)
+			(uuid "3dd6aa93-188b-4886-ae44-7d471af7e468")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_TX" input
+			(at 146.05 213.36 0)
+			(uuid "d184ab5f-e215-49d7-a9f2-b773155ab210")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_RX" output
+			(at 146.05 208.28 0)
+			(uuid "02da5ea1-7605-44c6-b4a7-199db82b0d48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO9" bidirectional
+			(at 146.05 187.96 0)
+			(uuid "9463c67b-671c-4108-a305-350473c26de8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO34" bidirectional
+			(at 146.05 198.12 0)
+			(uuid "b271a344-4545-4e84-9600-4893d5e2a5d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -96,6 +366,16 @@
 				(justify left top)
 			)
 		)
+		(pin "IO35" input
+			(at 146.05 50.8 0)
+			(uuid "67728046-e6c6-44cd-98dd-abd45fb0a992")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "placa_iot"
 				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
@@ -140,6 +420,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "IO1" output
+			(at 295.91 78.74 180)
+			(uuid "56570615-9877-4c39-90a6-a7c12d346a6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO4" output
+			(at 295.91 83.82 180)
+			(uuid "0f44a6d8-6506-4fba-a78d-09c1a4c5643b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -188,6 +488,26 @@
 				(justify left top)
 			)
 		)
+		(pin "D+" bidirectional
+			(at 295.91 201.93 180)
+			(uuid "b03aca7d-26c1-4b58-8ac6-dfe6d6174489")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 295.91 207.01 180)
+			(uuid "83a4db59-4ba3-48c7-978f-cb3bf8d1e7d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "placa_iot"
 				(path "/ca8a6ff9-ef79-4432-921e-b6a14ecba63b"
@@ -232,6 +552,166 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "IO36" bidirectional
+			(at 170.18 203.2 180)
+			(uuid "e97a2d36-65cd-4899-b4cb-c74a0ef4e274")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO33" bidirectional
+			(at 170.18 193.04 180)
+			(uuid "3f339dcd-53f2-4271-b775-55ea165e6a34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO34" bidirectional
+			(at 170.18 198.12 180)
+			(uuid "748fdb8f-ab9e-48c3-ba2d-cfcb4c4dba60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO35" output
+			(at 170.18 50.8 180)
+			(uuid "9288f2ed-782a-4f0d-8b18-08fd795dedbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 275.59 201.93 0)
+			(uuid "0ed4e8f2-efb0-4351-a669-843f35d5ba51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 275.59 207.01 0)
+			(uuid "ba5fcc10-af12-4301-acf3-d080c0a5ed65")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LORA_RX" input
+			(at 170.18 208.28 180)
+			(uuid "50633b37-3b6b-4790-bdf8-750b7cccc53b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LORA_TX" output
+			(at 170.18 213.36 180)
+			(uuid "1a246038-4324-490e-b0e3-a72a920ac4c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO1" input
+			(at 275.59 78.74 0)
+			(uuid "420537f2-a78a-485b-8737-a3887c2b288f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO4" input
+			(at 275.59 83.82 0)
+			(uuid "1619926d-8d27-4843-aef9-b2f2d24f0c32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IO3" input
+			(at 170.18 162.56 180)
+			(uuid "72db8a1d-5a34-4cf3-a5a1-d9aeaf5720bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO8" output
+			(at 170.18 182.88 180)
+			(uuid "dea62022-3ed4-4acb-8900-18bf91c2197c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO6" output
+			(at 170.18 172.72 180)
+			(uuid "24215d24-b03e-4fc3-a325-967afe384391")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO5" output
+			(at 170.18 167.64 180)
+			(uuid "ca2d9e39-efe1-49c1-94e7-d88192f0d2cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO7" output
+			(at 170.18 177.8 180)
+			(uuid "7914afdb-bc82-4918-8e1c-838ef77fabcc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IO9" bidirectional
+			(at 170.18 187.96 180)
+			(uuid "4aa975af-0120-410b-9059-f4ca1bf16ab2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
