@@ -5086,6 +5086,16 @@
 		)
 		(uuid "2abfeed2-4e7d-44ad-8438-857ed2fb5dea")
 	)
+	(label "LNA"
+		(at 243.84 176.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d95a4cf-4e66-4ee0-92c7-8dcd56fa3f0b")
+	)
 	(label "IO8"
 		(at 167.64 135.89 0)
 		(effects
